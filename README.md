@@ -1,1 +1,7 @@
 [heat map 1](https://user-images.githubusercontent.com/66158849/156535422-4821050b-3b20-42ed-bda7-ee4b3bf6d389.png)
+![heat map 2](https://user-images.githubusercontent.com/66158849/156535648-8597e642-8315-41ab-a803-8dad5ebc73d7.png)
+![line 1](https://user-images.githubusercontent.com/66158849/156535666-bcf2a3f1-5929-4886-bc71-d7482f7ef926.png)
+![line 2](https://user-images.githubusercontent.com/66158849/156535679-3b1ebdb7-988c-40df-962b-d9c0ff2eb964.png)
+![line 3](https://user-images.githubusercontent.com/66158849/156535688-349dbb18-a419-4059-b76e-981d5c077f6f.png)
+![line 4](https://user-images.githubusercontent.com/66158849/156535696-cd4cd935-06fc-4514-bd9a-add2f384923c.png)
+![pie 1](https://user-images.githubusercontent.com/66158849/156535702-28e5cbc4-648d-4429-810e-5de87f9bc0fa.png)
